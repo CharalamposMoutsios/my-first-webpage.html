@@ -14,7 +14,8 @@ This project does not have any dependencies. However, it was built using the fol
     HTML5
     CSS3
     JavaScript
-
+    Golive package
+    
     Features
 
     Header section with a logo and a navigation menu.
